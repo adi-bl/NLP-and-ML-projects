@@ -1,0 +1,5 @@
+output,intent,state,entities,polarity
+"Sure, I can help you book a hotel. What is your desired destination?",1,4,[],positive
+And on which dates would you like to book the hotel?,1,5,"[('London', 'GPE')]",neutral
+"Ok! Thank you, goodbye! Please write 'exit' for closing the chat bot",1,5,"[('10 May', 'DATE')]",neutral
+"Ok! Thank you, goodbye! Please write 'exit' for closing the chat bot",1,5,[],neutral
